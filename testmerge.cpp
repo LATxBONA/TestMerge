@@ -12,7 +12,7 @@ int fibonacci(int n) {
 
 int main() {
   int n;
-  cout << "Nhap so Fibonacci muon tinh: ";
+  cout << "Thuan nè hehe Nhap so Fibonacci muon tinh: ";
   cin >> n;
 
   int result = fibonacci(n);
